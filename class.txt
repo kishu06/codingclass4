@@ -1,0 +1,2 @@
+This is mine coding class 5.
+In this class we are going to link a local repository to the global repository
